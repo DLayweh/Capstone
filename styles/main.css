@@ -9,6 +9,13 @@ body{
     margin: auto;
     width: auto;
 }
+
+.container{
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
 .card{
     min-height: 75vh;
     display: flex;
@@ -49,6 +56,7 @@ body{
     width: 60%;
     margin: auto;
     text-align: center;
+    font-size: large;
 }
 .register input {
     text-align: center;
@@ -75,7 +83,4 @@ body{
         flex: 0 0 auto;
         width: auto;
     }
-}
-.register button{
-    
 }
