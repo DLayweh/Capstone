@@ -1,0 +1,81 @@
+body{
+    background-color: white;
+}
+
+#cart{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: auto;
+    width: auto;
+}
+.card{
+    min-height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.card-body{
+    min-height: 46vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card-title{
+    white-space: nowrap ;
+}
+.card-img-top{
+    height: 29vw;
+    width: 29vw;
+    object-fit: contain;
+}
+
+.headerpic{
+    height: 2.5rem;
+    width: auto;
+}
+
+#cart table{
+    width: 75%;
+    margin: auto;
+}
+
+.option{
+    text-align: center;
+}
+.register {
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.register input {
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+}
+.register label{
+    display: inline-block;
+}
+@media (min-width: 768px) {
+    .col-md-4 {
+        flex: 0 0 auto;
+        width: auto;
+    }
+}
+@media (min-width: 768px) {
+    .col-md-6 {
+        flex: 0 0 auto;
+        width: auto;
+    }
+}
+@media (min-width: 768px) {
+    .col-md-3 {
+        flex: 0 0 auto;
+        width: auto;
+    }
+}
+.register button{
+    
+}
