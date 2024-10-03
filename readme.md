@@ -15,7 +15,6 @@ This is my capstone projcet for my Front-end Developer class
 
 This is my Home Page, providing you a discription of our site and our top priorities as a brand. This page als features some of our best-selling microphones.
 
-
 ![Alt text](images/homepage.png)
 
 
