@@ -1,21 +1,15 @@
 body{
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 #cart{
-    background-color: white;
+    background-color: whitesmoke;
     padding: 1rem;
     border-radius: 1rem;
     margin: auto;
     width: auto;
 }
 
-.container{
-    align-items: center;
-    width: 60%;
-    margin: auto;
-    text-align: center;
-}
 .card{
     min-height: 75vh;
     display: flex;
@@ -31,6 +25,7 @@ body{
 }
 .card-title{
     white-space: nowrap ;
+
 }
 .card-img-top{
     height: 29vw;
@@ -38,6 +33,10 @@ body{
     object-fit: contain;
 }
 
+label{
+    width: 150px;
+    text-align: left;
+}
 .headerpic{
     height: 4.5rem;
     width: auto;
@@ -52,14 +51,17 @@ body{
     text-align: center;
 }
 .register {
-    align-items: center;
-    width: 60%;
+    align-items: end;
+    width: 30%
     margin: auto;
     text-align: center;
     font-size: large;
+    font-style: normal;
+
+
 }
 .register-inputs{
-    text-align: end;
+    text-align: center;
 
 }
 .register input {
@@ -72,6 +74,7 @@ body{
 }
 @media (min-width: 768px) {
     .col-md-4 {
+        display: block;
         flex: 0 0 auto;
         width: auto;
     }
@@ -87,4 +90,105 @@ body{
         flex: 0 0 auto;
         width: auto;
     }
+}
+.col-md-4{
+    display: block;
+}
+label{
+    white-space: nowrap;
+
+}
+.form-control{
+    width: 188px;
+}
+main{
+    width: auto;
+    margin: auto;
+}
+main form div{
+    width: auto;
+    margin: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 2%;
+    background:whitesmoke;
+    padding: 20px;
+    border-radius: 8px;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: black
+    
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+select{
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+section {
+    margin-bottom: 20px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+
+table{ 
+    width: 100%;
+    padding: 0%;
+    margin-bottom: 15px;
+    border-radius: 4px;
 }
