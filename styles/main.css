@@ -1,15 +1,9 @@
 body{
     background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
 }
-
-#cart{
-    background-color: whitesmoke;
-    padding: 1rem;
-    border-radius: 1rem;
-    margin: auto;
-    width: auto;
-}
-
 .card{
     min-height: 75vh;
     display: flex;
@@ -50,17 +44,25 @@ label{
 .option{
     text-align: center;
 }
-.register {
+.login {
     align-items: end;
-    width: 30%
+    width: 30%;
     margin: auto;
     text-align: center;
     font-size: large;
     font-style: normal;
+    padding: 10px;
 
 
 }
-.register-inputs{
+.login-inner mb-3,
+.login-inner label,
+.login-inner{
+    text-align: center;
+    margin: auto;
+    width: 188px;
+}
+.login-inputs{
     text-align: center;
 
 }
@@ -110,19 +112,13 @@ main form div{
     margin: auto;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: whitesmoke;
-    margin: 0;
-    padding: 20px;
-}
-
 .container {
     max-width: 600px;
     margin-top: 2%;
     background:whitesmoke;
     padding: 20px;
     border-radius: 8px;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -174,15 +170,6 @@ button {
     border-radius: 4px;
     font-size: 16px;
     cursor: pointer;
-}
-
-button:hover {
-    background-color: blue;
-}
-
-p {
-    font-size: 16px;
-    margin: 5px 0;
 }
 
 
