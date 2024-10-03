@@ -1,10 +1,11 @@
-<h1> Pod Gear E-commerce Shop<h1>
-<br>
-<b>Overview</b>
-<p> welcome to Pod Gear E-Commerce Shop. This is a one-stop shop for all podcast equipment. we sell afforable, high-quality equipment for both beginner and professional and beginner podcasters.
-<br>
+# Pod Gear E-commerce Shop
+
+## Overview
+
+ welcome to Pod Gear E-Commerce Shop. This is a one-stop shop for all podcast equipment. we sell afforable, high-quality equipment for both beginner and professional and beginner podcasters.
+ 
 This is my capstone projcet for my Front-end Developer class
-</p>
+
 
 <br>
 <h1>Technology Use<h1>
