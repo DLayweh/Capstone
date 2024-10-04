@@ -22,7 +22,12 @@ This is the Home Page, providing you a discription of our site and our top prior
 
 
 This is the Product Page featuring six of our most in-demand equipments currently in stock.
->I enjoyed using both HTML and CSS to style my product page. It was a little challenging getting all the products to align, but my instructor was very helpful in guiding me to achieve the look I wanted.
+>I enjoyed using both HTML and CSS to style my product page. It was a little challenging getting all the products to align, but my instructor was very helpful in guiding me to achieve the look I wanted. 
+
+Below is an example of the style I use in HTML.
+
+![alt text](images/productstyle.png)
+
 
 ![alt text](images/productpage.png)
 
