@@ -2,16 +2,18 @@
 
 ## Overview
 
- welcome to Pod Gear E-Commerce Shop. This is a one-stop shop for all podcast equipment. we sell afforable, high-quality equipment for both beginner and professional and beginner podcasters.
+ Welcome to Pod Gear E-Commerce Shop. This is a one-stop shop for all podcast equipments. we sell afforable, high-quality equipment for both professionals and beginners podcasters.
  
-This is my capstone projcet for my Front-end Developer class
+This is my capstone projcet for my Front-end Developer class.
 
 
 
 ## Technology Use
-HTML
-CSS
->Bootstrap>
+>HTML
+
+>CSS
+
+>Bootstrap
 
 This is the Home Page, providing you a discription of our site and our top priorities as a brand. This page also features some of our best-selling microphones.
 
@@ -35,5 +37,8 @@ clicking on "Create Account" will take you to the registerion page if the custom
 ![alt text](images/logininpage.png)
 
 
+This is the Checkout Page. It features an easy-to-fill form for entering the shipping adress and payment information. It also provides an overall of the purchased items, including their description, quanity, price and the overall total amount.
+
 ![alt text](images/checkoutpage.png)
-This is the Checkout Page. It features an easy-to-fill form for entering the shipping adress and payment information. It also provides an overall of the purchased items, including their description, quanity, price and the overall total amount
+
+# Thank You For Reading!
