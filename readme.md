@@ -22,9 +22,9 @@ This is the Home Page, providing you a discription of our site and our top prior
 
 
 This is the Product Page featuring six of our most in-demand equipments currently in stock.
+>I enjoyed using both HTML and CSS to style my product page. It was a little challenging getting all the products to align, but my instructor was very helpful in guiding me to achieve the look I wanted.
 
 ![alt text](images/productpage.png)
-
 
 
 This is the Register Page for customer who do not have an account with us. it includes an easy fill-in section and "How did you hear about us" questions with option answers. This feature is use to track which channels are most successful in attracting customers.
